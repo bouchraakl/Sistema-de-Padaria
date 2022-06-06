@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648167750 source:c:\users\bushr\documents\exam1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1649164618 source:c:\users\bushr\documents\projeto de game design document\provas + entregas\codeblock-prova1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
